@@ -1,6 +1,6 @@
 <h3 align="center">Hey👋 What's Up,</h3>
 
-<h1 align="center">I'm Sahil Chaudhari </h1>
+<h1 align="center">I'm Vedant Patel </h1>
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <p align="center">
   🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
    📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Product Manager in AI
+  🎓 <b>Focus:</b> Cyber Security 
 </p>
 
 ---
