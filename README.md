@@ -10,7 +10,7 @@
 ### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
