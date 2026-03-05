@@ -1,139 +1,114 @@
-<!-- ⚡ Cyberpunk / Synthwave Theme ⚡ -->
-<div align="center">
+<h3 align="center">Hey👋 What's Up,</h3>
 
-<!-- 🌌 Animated Neon Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b829ea,50:4e00c2,100:00e1ff&height=300&section=header&text=VEDANT%20PATEL&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Web%20Wizard%20%7C%20Creative%20Engineer%20%7C%20Cyber%20Security&descAlignY=60&descColor=00e1ff&animation=twinkling" />
+<h1 align="center">I'm Vedant Patel </h1>
+<h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
-<!-- ⚙️ Neon Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=b829ea&center=true&vCenter=true&random=false&width=900&lines=Hey+Choom!+I'm+Vedant+%F0%9F%91%8B;Architecting+the+Digital+Future+%F0%9F%8C%90;Turning+Coffee+into+Impactful+Code+%E2%9A%A1;Diving+Deep+into+Cyber+Security+%F0%9F%94%90;Always+Learning+%26+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" />
+</p>
 
-<br/><br/>
+### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
 
-<!-- 🔗 Floating Social Matrix -->
-<a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4e00c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1a1a" />
-</a>
-<a href="https://x.com/VedantPate1601" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00e1ff&labelColor=1a1a1a" />
-</a>
-<a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-b829ea?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=1a1a1a" />
-</a>
-<a href="mailto:sahil.v.chaudhari.cg@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00e1ff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1a1a" />
-</a>
-
-<br/><br/>
-
-<!-- 👁️ Cyber Profile Views -->
-<a href="https://github.com/vedantxy">
-  <img src="https://komarev.com/ghpvc/?username=vedantxy&label=PROFILE+VIEWS&color=b829ea&style=for-the-badge&labelColor=1a1a1a" />
-</a>
-<a href="https://github.com/vedantxy?tab=followers">
-  <img src="https://img.shields.io/github/followers/vedantxy?label=FOLLOWERS&style=for-the-badge&color=00e1ff&labelColor=1a1a1a" />
-</a>
-
-</div>
-
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/assets/divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png';" />
-<br/>
-
-<!-- 👨‍💻 About & Tech Stack Matrix Split -->
-<table width="100%" align="center">
-<tr>
-<td width="55%" valign="top">
-
-### 👨‍💻 **OVERRIDE: ABOUT_ME.EXE**
-<br/>
-
-Greetings! I'm a highly energetic **1st Year** programmer at *CodingGita, Swaminarayan University*. Entering the matrix to build visual magic and robust systems. 
-
-- 🔭 **Currently:** Leveling up my Web Dev & Programming skills.
-- 🌱 **Learning:** `React`, `Node.js`, `MongoDB` & `Cyber Security`.
-- ⚡ **Superpower:** Debugging `C logic` & crafting pixel-perfect UI.
-- 🎯 **Goal 2025:** Build impactful real-world projects & open source mastery.
-- 🎮 **Interests:** Interactive scaling web apps & game development!
-
-<br/>
-
-</td>
-<td width="45%" valign="top" align="center">
-
-### 🛠️ **TECH_ARSENAL.DAT**
-<br/>
-
-> **Frontend & Backend Base**<br/>
-> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
-> <br/><br/>
-> **System Languages & Databases**<br/>
-> <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb&theme=dark" />
-> <br/><br/>
-> **Development Environment Tools**<br/>
-> <img src="https://skillicons.dev/icons?i=vscode,github,redis,netlify&theme=dark" />
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/assets/divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png';" />
-<br/>
-
-## 🏆 **GITHUB_ACHIEVEMENTS.LOG**
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedantxy&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
-</div>
-
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/assets/divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png';" />
-<br/>
-
-## 🚀 **CORE_PROJECTS.SYS**
-<br/>
-<div align="center">
-  <a href="https://github.com/vedantxy/nodejs_assignment">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantxy&repo=nodejs_assignment&theme=synthwave&border_color=b829ea&bg_color=0D1117&icon_color=00e1ff&text_color=94A3B8" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/vedantxy/CGxSU_Semester_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantxy&repo=CGxSU_Semester_1&theme=synthwave&border_color=b829ea&bg_color=0D1117&icon_color=00e1ff&text_color=94A3B8" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/vedantxy/react-test">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantxy&repo=react-test&theme=synthwave&border_color=b829ea&bg_color=0D1117&icon_color=00e1ff&text_color=94A3B8" />
+  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/vedantxy/css-clone-by-vedant-patel">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantxy&repo=css-clone-by-vedant-patel&theme=synthwave&border_color=b829ea&bg_color=0D1117&icon_color=00e1ff&text_color=94A3B8" />
+  <a href="https://www.youtube.com/@codewithsahil-1e9" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+ <a href="https://x.com/Sahil_cdry" target="_blank">
+  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/assets/divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png';" />
-<br/>
+</p>
 
-## 📈 **ANALYTICS_MATRIX.DAT**
-<br/>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedantxy&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=b829ea&icon_color=00e1ff&text_color=94A3B8" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=synthwave&hide_border=true&background=0D1117&stroke=b829ea&ring=00e1ff&fire=FF6B6B&currStreakLabel=b829ea" />
+<p align="center">
+  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
+   📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
+  🎓 <b>Focus:</b> Cyber Security 
+</p>
 
-  <br/><br/>
+---
 
-  <!-- High-Tech Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantxy&theme=synthwave&bg_color=0D1117&color=b829ea&line=00e1ff&point=ffffff&area=true&hide_border=true" />
-</div>
+## 📘 About Me
 
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/assets/divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png';" />
-<br/>
+I am a **developer** passionate about building interactive tools and logical applications.  
+I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
 
-<div align="center">
-  <h3>Let's Connect & Build the Future! 🚀</h3>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,50:4e00c2,100:b829ea&height=120&section=footer&animation=fadeIn" />
-</div>
+- 🔭 **Current Focus:** Improving programming and development skills  
+- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
+- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
+
+---
+
+## <h1 align="center">🛠️ My Tech Toolbox</h1>
+
+### <h1 align="center">Languages Known</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" />
+</p>
+
+### <h1 align="center">Tools in Backend</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### <h1 align="center">Languages learn in future</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+---
+
+## ⭐ Top Projects
+
+### 🧠 Pokemon Hand Gesture Battle
+*You experience real pokemon battle with your hand.*
+
+- **Stack:** HTML, CSS, JavaScript 
+- 🔗 [View Repository](https://github.com/sahilchaudhari32/My-own-experiment/blob/main/pokemon-battle-geastur/index.html)
+
+---
+
+### 🃏 Clone Projects
+*My own clone website projects.*
+
+- **Stack:** HTML, CSS  
+- 🔗 [View Repository](https://github.com/sahilchaudhari32/Projects)
+
+---
+
+## 🚀 Let's Build Something Amazing Together!
+
+<p align="center">
+  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
