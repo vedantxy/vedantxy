@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@codewithsahil-1e9" target="_blank">
+  <a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
