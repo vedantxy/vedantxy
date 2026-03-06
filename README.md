@@ -10,7 +10,7 @@
 ### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@codewithsahil-1e9" target="_blank">
+  <a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
