@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
- <a href="https://x.com/Sahil_cdry" target="_blank">
+ <a href="https://x.com/VedantPate1601" target="_blank">
   <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
