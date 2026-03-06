@@ -89,26 +89,19 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ## ⭐ Top Projects
 
-### 🧠 Pokemon Hand Gesture Battle
-*You experience real pokemon battle with your hand.*
-
-- **Stack:** HTML, CSS, JavaScript 
-- 🔗 [View Repository](https://github.com/sahilchaudhari32/My-own-experiment/blob/main/pokemon-battle-geastur/index.html)
-
----
 
 ### 🃏 Clone Projects
 *My own clone website projects.*
 
 - **Stack:** HTML, CSS  
-- 🔗 [View Repository](https://github.com/sahilchaudhari32/Projects)
+- 🔗 [View Repository](https://github.com/vedantxy/css-clone-by-vedant-patel)
 
 ---
 
 ## 🚀 Let's Build Something Amazing Together!
 
 <p align="center">
-  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
+  <a href="mailto:vedantpatelxy12@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
