@@ -1,107 +1,134 @@
-<h3 align="center">Hey👋 What's Up,</h3>
+<h1 align="center">Hi there, I'm Vedant Patel 👋</h1>
 
-<h1 align="center">I'm Vedant Patel </h1>
-<h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" />
-</p>
-
-### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
+<h3 align="center">A passionate 1st-year IT Student & Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
- <a href="https://x.com/VedantPate1601" target="_blank">
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
+  <img src="https://img.shields.io/badge/Student-Swaminarayan_University-38BDF8?style=for-the-badge&logo=education&logoColor=white" alt="University">
+  <img src="https://img.shields.io/github/followers/vedantxy?style=for-the-badge&color=38BDF8&logo=github" alt="Followers">
 </p>
 
 <p align="center">
-  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
-   📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Cyber Security 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Cyber+Security+Enthusiast;Creative+Coder;Game+Developer" alt="Typing SVG" />
 </p>
 
----
-
-## 📘 About Me
-
-I am a **developer** passionate about building interactive tools and logical applications.  
-I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
-
-- 🔭 **Current Focus:** Improving programming and development skills  
-- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
-- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
-
----
-
-## <h1 align="center">🛠️ My Tech Toolbox</h1>
-
-### <h1 align="center">Languages Known</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" />
-</p>
-
-### <h1 align="center">Tools in Backend</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### <h1 align="center">Languages learn in future</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
-
----
-
-## ⭐ Top Projects
-
-
-### 🃏 Clone Projects
-*My own clone website projects.*
-
-- **Stack:** HTML, CSS  
-- 🔗 [View Repository](https://github.com/vedantxy/css-clone-by-vedant-patel)
-
----
-
-## 🚀 Let's Build Something Amazing Together!
-
-<p align="center">
+<div align="center">
   <a href="mailto:vedantpatelxy12@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/VedantPate1601" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="#" target="_blank"> <!-- Apna Discord invite link yahan dalein -->
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="#" target="_blank"> <!-- Apna Resume link yahan dalein -->
+    <img src="https://img.shields.io/badge/Resume_CV-%23000000.svg?style=for-the-badge&logo=Read.cv&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantxy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Vedant's Trophies" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+## 👨‍💻 About Me
+
+- 🎓 I am currently a **1st-year (2nd semester) student** at **CodingGita, Swaminarayan University**.
+- 🔭 I’m currently focused on **improving my programming fundamentals and web development skills**.
+- 🌱 **Currently Learning:** Deeper concepts in **React, Cyber Security, and Database Management**.
+- 🎯 **Future Goals:** Build fully interactive web applications and contribute to open-source game development.
+- ❤️ **Interests:** Web Development, Cyber Security, Game Development, and crafting logical applications.
+- ⚡ **Fun Fact:** I love turning complex logic into impactful code and creating pixel-perfect CSS designs!
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <p>Here are the technologies and tools I work with:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,react,mongodb,mysql,github,vscode&perline=9" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+<div align="center">
+
+## 📊 GitHub Stats & Streak
+
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vedantxy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 LeetCode Stats
+<!-- Agar aap LeetCode use karte hain toh ye automatic update hoga -->
+<img src="https://leetcode.card.workers.dev/?username=vedantxy&theme=tokyonight" alt="LeetCode Stats" />
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantxy&theme=tokyonight&hide_border=true&bg_color=1A1B27&color=38BDF8" alt="Contribution Graph" width="100%" />
+
+## 🐍 Contribution Snake (Interactive)
+<!-- Note: Is snake ko active karne ke liye GitHub Actions setup karna padega -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+## 🚀 Featured Projects
+
+### 🃏 CSS Clone Projects
+*My own clone website projects focusing on pixel-perfect UI and responsive layouts.*
+- **Tech Stack:** HTML, CSS
+- 🔗 **Repo:** [View Repository](https://github.com/vedantxy/css-clone-by-vedant-patel)
+
+### 💻 Web Applications
+*Coming soon! Stay tuned as I build interactive tools and practical web solutions during this semester.*
+- **Tech Stack:** JavaScript, React, MongoDB
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+<div align="center">
+
+## 🎵 Currently Playing (Spotify)
+<!-- Placeholder for formatting. Setup via spotlist-readme or novu if you want real-time -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=1A1B27&interchange=true&bar_color=38BDF8&bar_color_cover=false" alt="Spotify" />
+
+## 💡 Developer Quote
+
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+— **Martin Fowler**
+
+<br><br>
+
+### 👁️ Visitor Count
+<img src="https://profile-counter.glitch.me/vedantxy/count.svg" alt="Visitor Counter" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" width="100%" />
+</div>
