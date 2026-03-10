@@ -87,12 +87,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantxy&theme=tokyonight&hide_border=true&bg_color=1A1B27&color=38BDF8" alt="Contribution Graph" width="100%" />
 
-## 🐍 Contribution Snake (Interactive)
-<!-- Note: Is snake ko active karne ke liye GitHub Actions setup karna padega -->
+## 🏙️ 3D Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/main/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/vedantxy/vedantxy/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
 
 </div>
