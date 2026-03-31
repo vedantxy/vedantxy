@@ -43,22 +43,35 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I am currently a **1st-year (2nd semester) student** at **CodingGita, Swaminarayan University**.
-- 🔭 I’m currently focused on **improving my programming fundamentals and web development skills**.
-- 🌱 **Currently Learning:** Deeper concepts in **React, Cyber Security, and Database Management**.
-- 🎯 **Future Goals:** Build fully interactive web applications and contribute to open-source game development.
-- ❤️ **Interests:** Web Development, Cyber Security, Game Development, and crafting logical applications.
-- ⚡ **Fun Fact:** I love turning complex logic into impactful code and creating pixel-perfect CSS designs!
+- 🎓 **Education:** 1st-year (2nd semester) IT Student @ [CodingGita](https://codinggita.com), Swaminarayan University.
+- 🚀 **Focus:** Mastering Full-Stack Web Development & Cyber Security.
+- 🌱 **Learning:** Advanced React patterns, Penetration Testing, and scalable DB architecture.
+- 🎯 **Goals:** Developing high-impact web apps and contributing to innovative Open Source projects.
+- ⚡ **Fun Fact:** I believe that "Style + Logic = Magic" — I love crafting pixel-perfect designs with clean code!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
 ## 🛠️ My Tech Stack
 
 <div align="center">
-  <p>Here are the technologies and tools I work with:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,react,mongodb,mysql,github,vscode&perline=9" alt="Tech Stack Icons" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="200"><strong>Frontend</strong></td>
+      <td align="center" width="200"><strong>Backend & DB</strong></td>
+      <td align="center" width="200"><strong>Tools & Others</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" alt="Frontend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=3" alt="Backend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=3" alt="Tools" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -101,14 +114,28 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+### 🌍 CleanPulse - Central Management Workflow
+*A high-fidelity waste management platform connecting Citizens and Authorities for a cleaner environment.*
+- **Tech Stack:** React, Node.js, Express, MongoDB, Leaflet Maps
+- 🔗 **Repo:** [View Repository](https://github.com/vedantxy?tab=repositories) <!-- Update with exact link if available -->
+
+<br>
+
+### 🎓 CodingGitaLms Clone
+*A comprehensive Learning Management System clone focusing on intuitive user experience and robust educational tools.*
+- **Tech Stack:** HTML, Tailwind CSS, JavaScript, React
+- 🔗 **Repo:** [View Repository](https://github.com/vedantxy?tab=repositories)
+
+<br>
+
 ### 🃏 CSS Clone Projects
-*My own clone website projects focusing on pixel-perfect UI and responsive layouts.*
+*My own collection of clone website projects focusing on pixel-perfect UI and responsive layouts.*
 - **Tech Stack:** HTML, CSS
 - 🔗 **Repo:** [View Repository](https://github.com/vedantxy/css-clone-by-vedant-patel)
 
-### 💻 Web Applications
-*Coming soon! Stay tuned as I build interactive tools and practical web solutions during this semester.*
-- **Tech Stack:** JavaScript, React, MongoDB
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
