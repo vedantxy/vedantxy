@@ -86,11 +86,11 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
       <a href="https://github.com/vedantxy/css-clone-by-vedant-patel">🔗 View Project →</a>
     </td>
     <td width="50%">
-      <h3>🔮 Next Up...</h3>
-      <p><strong>Something ambitious is cooking.</strong></p>
-      <p>Follow me or ⭐ star my profile to be the first to know when the next project drops.</p>
-      <br/>
-      <a href="https://github.com/vedantxy?tab=repositories">👀 Watch This Space →</a>
+      <h3>🤖 AI-Adaptive Onboarding Engine</h3>
+      <p><strong>Personalized Learning Pathways</strong></p>
+      <p>An intelligent platform for managing new hire onboarding with AI-driven personalized learning paths, ensuring a smooth and effective transition into the workforce.</p>
+      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code></p>
+      <a href="https://art-park-code-forge-hackathon-nine.vercel.app/">🔗 View Project →</a>
     </td>
   </tr>
 </table>
