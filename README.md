@@ -97,15 +97,36 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantxy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" height="180"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantxy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
