@@ -1,135 +1,123 @@
-<h1 align="center">Hi there, I'm Vedant Patel 👋</h1>
-
-<h3 align="center">A passionate 1st-year IT Student & Web Developer</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Swaminarayan_University-38BDF8?style=for-the-badge&logo=education&logoColor=white" alt="University">
-  <img src="https://img.shields.io/github/followers/vedantxy?style=for-the-badge&color=38BDF8&logo=github" alt="Followers">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Cyber+Security+Enthusiast;Creative+Coder;Game+Developer" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <a href="mailto:vedantpatelxy12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/VedantPate1601" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@VedantPatel-y7k" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="#" target="_blank"> <!-- Apna Discord invite link yahan dalein -->
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="#" target="_blank"> <!-- Apna Resume link yahan dalein -->
-    <img src="https://img.shields.io/badge/Resume_CV-%23000000.svg?style=for-the-badge&logo=Read.cv&logoColor=white" alt="Resume" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
-<br>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
-
-## 👨‍💻 About Me
-
-- 🎓 **Education:** 1st-year (2nd semester) IT Student @ [CodingGita](https://codinggita.com), Swaminarayan University.
-- 🚀 **Focus:** Mastering Full-Stack Web Development & Cyber Security.
-- 🌱 **Learning:** Advanced React patterns, Penetration Testing, and scalable DB architecture.
-- 🎯 **Goals:** Developing high-impact web apps and contributing to innovative Open Source projects.
-- ⚡ **Fun Fact:** I believe that "Style + Logic = Magic" — I love crafting pixel-perfect designs with clean code!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
-
-## 🛠️ My Tech Stack
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200"><strong>Frontend</strong></td>
-      <td align="center" width="200"><strong>Backend & DB</strong></td>
-      <td align="center" width="200"><strong>Tools & Others</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" alt="Frontend" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=3" alt="Backend" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=3" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
+</div>
+
+<br/>
+
+---
+
+## ⚡ Who Am I?
+
+> *"Style + Logic = Magic."*
+
+I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (via [CodingGita](https://codinggita.com)), obsessed with turning ideas into real, working products. I don't just write code — I craft experiences.
+
+| 🎯 Focus | 🌱 Currently Exploring | 🏆 End Goal |
+|---|---|---|
+| Full-Stack Web Dev | Advanced React, Penetration Testing | Ship high-impact products & contribute to OSS |
+| Cyber Security | Scalable DB Architecture | Land a role at a top tech company |
+| Game Development | System Design Patterns | Build something used by millions |
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-## 📊 GitHub Stats & Streak
+**Frontend**
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
+
+**Backend & Database**
+`Node.js` `Express.js` `MongoDB` `MySQL` `Supabase`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=5" />
+
+**Tools & Workflow**
+`Git` `GitHub` `VS Code` `Postman` `Figma`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" />
+
+</div>
+
+---
+
+## 🚀 Flagship Projects
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vedantxy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <tr>
+    <td width="50%">
+      <h3>🌍 CleanPulse</h3>
+      <p><strong>Central Waste Management Workflow</strong></p>
+      <p>A full-stack civic-tech platform bridging Citizens and Authorities for smarter, cleaner cities. Features real-time geolocation, issue tracking, and authority dashboards.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Leaflet Maps</code></p>
+      <a href="https://github.com/vedantxy?tab=repositories">🔗 View Project →</a>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <td width="50%">
+      <h3>🎓 CodingGita LMS Clone</h3>
+      <p><strong>Learning Management System</strong></p>
+      <p>A feature-complete LMS clone with a focus on intuitive UX, course navigation, and responsive design. Built to mirror real-world EdTech architecture.</p>
+      <p><code>HTML</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>React</code></p>
+      <a href="https://github.com/vedantxy?tab=repositories">🔗 View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🃏 CSS Clone Collection</h3>
+      <p><strong>Pixel-Perfect UI Replicas</strong></p>
+      <p>A curated showcase of industry websites rebuilt from scratch — proving precision, attention to detail, and mastery of core frontend fundamentals.</p>
+      <p><code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/vedantxy/css-clone-by-vedant-patel">🔗 View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🔮 Next Up...</h3>
+      <p><strong>Something ambitious is cooking.</strong></p>
+      <p>Follow me or ⭐ star my profile to be the first to know when the next project drops.</p>
+      <br/>
+      <a href="https://github.com/vedantxy?tab=repositories">👀 Watch This Space →</a>
     </td>
   </tr>
 </table>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantxy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantxy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
+</div>
 
-## 🚀 Featured Projects
+---
 
 <div align="center">
 
-### 🌍 CleanPulse - Central Management Workflow
-*A high-fidelity waste management platform connecting Citizens and Authorities for a cleaner environment.*
-- **Tech Stack:** React, Node.js, Express, MongoDB, Leaflet Maps
-- 🔗 **Repo:** [View Repository](https://github.com/vedantxy?tab=repositories) <!-- Update with exact link if available -->
+**Open to internships, collaborations & freelance projects.**
+**Let's build something remarkable together.**
 
-<br>
+[![Gmail](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpatelxy12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-patel-3b6a4636a/)
 
-### 🎓 CodingGitaLms Clone
-*A comprehensive Learning Management System clone focusing on intuitive user experience and robust educational tools.*
-- **Tech Stack:** HTML, Tailwind CSS, JavaScript, React
-- 🔗 **Repo:** [View Repository](https://github.com/vedantxy?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%94%20Go%20Build%20Something!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<br>
-
-### 🃏 CSS Clone Projects
-*My own collection of clone website projects focusing on pixel-perfect UI and responsive layouts.*
-- **Tech Stack:** HTML, CSS
-- 🔗 **Repo:** [View Repository](https://github.com/vedantxy/css-clone-by-vedant-patel)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
-
-<div align="center">
-
-
-## 💡 Developer Quote
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-— **Martin Fowler**
-
-<br><br>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
