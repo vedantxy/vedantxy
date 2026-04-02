@@ -34,10 +34,6 @@
 
 <br>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedantxy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Vedant's Trophies" />
-</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
@@ -92,21 +88,6 @@
   </tr>
 </table>
 
-## 🏆 LeetCode Stats
-<!-- Agar aap LeetCode use karte hain toh ye automatic update hoga -->
-<img src="https://leetcode.card.workers.dev/?username=vedantxy&theme=tokyonight" alt="LeetCode Stats" />
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantxy&theme=tokyonight&hide_border=true&bg_color=1A1B27&color=38BDF8" alt="Contribution Graph" width="100%" />
-
-## 🐍 Contribution Snake (Interactive)
-<!-- Note: Is snake ko active karne ke liye GitHub Actions setup karna padega -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -141,9 +122,6 @@
 
 <div align="center">
 
-## 🎵 Currently Playing (Spotify)
-<!-- Placeholder for formatting. Setup via spotlist-readme or novu if you want real-time -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=1A1B27&interchange=true&bar_color=38BDF8&bar_color_cover=false" alt="Spotify" />
 
 ## 💡 Developer Quote
 
@@ -152,10 +130,6 @@
 
 <br><br>
 
-### 👁️ Visitor Count
-<img src="https://profile-counter.glitch.me/vedantxy/count.svg" alt="Visitor Counter" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" width="100%" />
 </div>
