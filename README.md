@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
 </div>
 
@@ -67,7 +66,7 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
       <p><strong>Central Waste Management Workflow</strong></p>
       <p>A full-stack civic-tech platform bridging Citizens and Authorities for smarter, cleaner cities. Features real-time geolocation, issue tracking, and authority dashboards.</p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Leaflet Maps</code></p>
-      <a href="https://github.com/vedantxy?tab=repositories">🔗 View Project →</a>
+      <a href="https://clean-pulse-taupe.vercel.app/">🔗 View Project →</a>
     </td>
     <td width="50%">
       <h3>🎓 CodingGita LMS Clone</h3>
@@ -103,15 +102,15 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1.1" height="180" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true&v=1.1" height="180" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1.1" height="165" alt="Top Languages" />
       </td>
     </tr>
   </table>
