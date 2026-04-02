@@ -83,7 +83,7 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
       <p><strong>Pixel-Perfect UI Replicas</strong></p>
       <p>A curated showcase of industry websites rebuilt from scratch — proving precision, attention to detail, and mastery of core frontend fundamentals.</p>
       <p><code>HTML</code> <code>CSS</code></p>
-      <a href="https://github.com/vedantxy/css-clone-by-vedant-patel">🔗 View Project →</a>
+      <a href="https://css-clone-website.netlify.app/">🔗 View Project →</a>
     </td>
     <td width="50%">
       <h3>🤖 AI-Adaptive Onboarding Engine</h3>
