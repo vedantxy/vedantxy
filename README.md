@@ -117,7 +117,7 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
 ## 🧠 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/?username=vedantxy&theme=tokyonight" />
+  <img src="https://leetcode.card.workers.dev/?username=Vedant_2403&theme=tokyonight" />
 </div>
 
 ---
@@ -134,29 +134,6 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
-</div>
-
----
-
-## 💬 Dev Philosophy
-
-<div align="center">
-```
-╔══════════════════════════════════════════════════════════╗
-║  "Any fool can write code a computer understands.        ║
-║   Good programmers write code humans understand."        ║
-║                                          — Martin Fowler ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=1A1B27&interchange=true&bar_color=38BDF8&bar_color_cover=false" />
 </div>
 
 ---
