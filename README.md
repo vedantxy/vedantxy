@@ -36,15 +36,11 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
 | Section | Tech Stack |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=5" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" /> |
-
-</div>
+|:---|:---|
+| Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=5" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" /> |
 
 
 ---
