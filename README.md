@@ -38,63 +38,17 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
 
 <div align="center">
 
-**Frontend**
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
-
-**Backend & Database**
-`Node.js` `Express.js` `MongoDB` `MySQL` `Supabase`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=5" />
-
-**Tools & Workflow**
-`Git` `GitHub` `VS Code` `Postman` `Figma`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" />
+| Section | Tech Stack |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&perline=5" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" /> |
 
 </div>
 
----
-
-## 🚀 Flagship Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌍 CleanPulse</h3>
-      <p><strong>Central Waste Management Workflow</strong></p>
-      <p>A full-stack civic-tech platform bridging Citizens and Authorities for smarter, cleaner cities. Features real-time geolocation, issue tracking, and authority dashboards.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Leaflet Maps</code></p>
-      <a href="https://clean-pulse-taupe.vercel.app/">🔗 View Project →</a>
-    </td>
-    <td width="50%">
-      <h3>🎓 CodingGita LMS Clone</h3>
-      <p><strong>Learning Management System</strong></p>
-      <p>A feature-complete LMS clone with a focus on intuitive UX, course navigation, and responsive design. Built to mirror real-world EdTech architecture.</p>
-      <p><code>HTML</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>React</code></p>
-      <a href="https://github.com/vedantxy?tab=repositories">🔗 View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🃏 CSS Clone Collection</h3>
-      <p><strong>Pixel-Perfect UI Replicas</strong></p>
-      <p>A curated showcase of industry websites rebuilt from scratch — proving precision, attention to detail, and mastery of core frontend fundamentals.</p>
-      <p><code>HTML</code> <code>CSS</code></p>
-      <a href="https://css-clone-website.netlify.app/">🔗 View Project →</a>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI-Adaptive Onboarding Engine</h3>
-      <p><strong>Personalized Learning Pathways</strong></p>
-      <p>An intelligent platform for managing new hire onboarding with AI-driven personalized learning paths, ensuring a smooth and effective transition into the workforce.</p>
-      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code></p>
-      <a href="https://art-park-code-forge-hackathon-nine.vercel.app/">🔗 View Project →</a>
-    </td>
-  </tr>
-</table>
 
 ---
+
 
 ## 📊 GitHub Intelligence
 
