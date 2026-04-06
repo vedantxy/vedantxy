@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -33,6 +25,14 @@ I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (v
 | Game Development | System Design Patterns | Build something used by millions |
 
 ---
+
+<div align="center">
+  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+</div>
 
 ## 🛠️ Tech Arsenal
 
