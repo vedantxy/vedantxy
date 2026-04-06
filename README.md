@@ -1,185 +1,112 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vedant%20Patel&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=68&descSize=16&stroke=38BDF8&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+full-stack+experiences+%F0%9F%9A%80;Breaking+things+to+understand+them+%F0%9F%94%90;UI+that+feels+as+good+as+it+looks+%F0%9F%8E%A8;Shipping+code+that+actually+matters+%F0%9F%93%A6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:vedantpatelxy12@gmail.com">
-    <img src="https://img.shields.io/badge/-vedantpatelxy12%40gmail.com-0f0c29?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0f0c29"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/">
-    <img src="https://img.shields.io/badge/-vedant--patel-0f0c29?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=0f0c29"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/VedantPate1601">
-    <img src="https://img.shields.io/badge/-@VedantPate1601-0f0c29?style=flat-square&logo=x&logoColor=ffffff&labelColor=0f0c29"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@VedantPatel-y7k">
-    <img src="https://img.shields.io/badge/-YouTube-0f0c29?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=0f0c29"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vedantxy&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
 </div>
 
 <br/>
 
 ---
 
-<br/>
+## ⚡ Who Am I?
 
-## `$ whoami`
+> *"Style + Logic = Magic."*
 
-```typescript
-const vedant = {
-  name        : "Vedant Patel",
-  education   : "1st-Year IT @ Swaminarayan University · CodingGita",
-  location    : "Gujarat, India 🇮🇳",
-  focus       : ["Full-Stack Web Dev", "Cybersecurity", "Game Dev"],
-  learning    : ["Advanced React", "Penetration Testing", "System Design"],
-  available   : true,   // ← open to internships & collabs
-  philosophy  : "Style + Logic = Magic ✦"
-};
-```
+I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (via [CodingGita](https://codinggita.com)), obsessed with turning ideas into real, working products. I don't just write code — I craft experiences.
 
-<br/>
+| 🎯 Focus | 🌱 Currently Exploring | 🏆 End Goal |
+|---|---|---|
+| Full-Stack Web Dev | Advanced React, Penetration Testing | Ship high-impact products & contribute to OSS |
+| Cyber Security | Scalable DB Architecture | Land a role at a top tech company |
+| Game Development | System Design Patterns | Build something used by millions |
 
 ---
 
-<br/>
+<div align="center">
+  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+</div>
 
-## `$ ls ./skills`
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr><td align="center" width="33%">
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**`// FRONTEND`**
-<br/><br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</td><td align="center" width="33%">
-
-**`// BACKEND & DB`**
-<br/><br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td><td align="center" width="33%">
-
-**`// TOOLCHAIN`**
-<br/><br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td></tr>
-</table>
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<br/>
 
 ---
 
-<br/>
 
-## `$ cat ./roadmap.md`
-
-```
-[██████████░░░░░░░░░░]  MERN Stack       — Leveling Up
-[████████░░░░░░░░░░░░]  Penetration Test — In Progress
-[██████░░░░░░░░░░░░░░]  Game Development — Exploring
-[████░░░░░░░░░░░░░░░░]  System Design    — Just Started
-```
-
-| 🎯 Now | 🔭 Next | 🏆 Endgame |
-|--------|---------|------------|
-| Shipping full-stack projects | Advanced React + Scalable DBs | Build products used by millions |
-| Web security fundamentals | Penetration testing & CTFs | Top-tier tech company or my own startup |
-| Building in public | OSS contributions | Leave a dent in the internet |
-
-<br/>
-
----
-
-<br/>
-
-## `$ git log --stats`
+## 📊 GitHub Intelligence
 
 <div align="center">
-  <img src="https://github-readme-stats-alpha-three.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=38BDF8&icon_color=38BDF8&text_color=cdd6f4&ring_color=302b63" height="175" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true&background=0f0c29&ring=38BDF8&fire=a78bfa&currStreakLabel=38BDF8&sideLabels=cdd6f4&dates=7c7f93" height="175" alt="GitHub Streak"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1.1" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true&v=1.1" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1.1" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-alpha-three.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f0c29&title_color=38BDF8&text_color=cdd6f4" height="155" alt="Top Languages"/>
-</div>
-
-<br/>
 
 ---
 
-<br/>
-
-## `$ watch ./contributions --live`
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  Open to internships · freelance · collaborations   ║
-║  If you have an idea worth building — let's talk.   ║
-╚══════════════════════════════════════════════════════╝
-```
+**Open to internships, collaborations & freelance projects.**
+**Let's build something remarkable together.**
 
-<a href="mailto:vedantpatelxy12@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpatelxy12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-patel-3b6a4636a/)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%94%20Go%20Build%20Something!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=go%20build%20something%20remarkable&fontSize=18&fontColor=38BDF8&animation=fadeIn" width="100%"/>
 </div>
