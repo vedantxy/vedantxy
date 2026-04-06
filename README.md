@@ -1,112 +1,112 @@
-# 👋 Vedant Patel
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Vedant+Patel+Portfolio+Banner" alt="Vedant Patel Banner" />
-</p>
+<br/>
 
-### 🚀 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
+</div>
 
----
-
-## 🧑‍💻 About Me
-
-I am a passionate Full-Stack Developer focused on building modern, scalable, and user-centric web applications.  
-My core interests lie in React, backend systems, and crafting seamless UI/UX experiences.  
-Currently, I am exploring real-world problem-solving through projects, hackathons, and continuous learning.  
-
-🎯 Goal: To contribute to impactful tech products and grow as a professional software engineer.
+<br/>
 
 ---
 
-## ⚡ Quick Focus Areas
+## ⚡ Who Am I?
 
-| 💻 Development | 🔐 Security | 🎨 Design |
-|--------------|------------|-----------|
-| Full-Stack Web Development | Cybersecurity Basics | UI/UX Craftsmanship |
-| MERN Stack Projects | Secure Coding Practices | Clean & Modern Interfaces |
-| API Development | Data Protection | User-Centered Design |
+> *"Style + Logic = Magic."*
 
----
+I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (via [CodingGita](https://codinggita.com)), obsessed with turning ideas into real, working products. I don't just write code — I craft experiences.
 
-## 📬 Contact & Socials
-
-<p align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-channel)
-[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive)](https://your-resume-link.com)
-
-</p>
+| 🎯 Focus | 🌱 Currently Exploring | 🏆 End Goal |
+|---|---|---|
+| Full-Stack Web Dev | Advanced React, Penetration Testing | Ship high-impact products & contribute to OSS |
+| Cyber Security | Scalable DB Architecture | Land a role at a top tech company |
+| Game Development | System Design Patterns | Build something used by millions |
 
 ---
+
+<div align="center">
+  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+</div>
 
 ## 🛠️ Tech Arsenal
 
-### 🎨 Frontend
-- React.js  
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
-- Tailwind CSS  
-- Responsive Design  
+<div align="center">
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-- Node.js  
-- Express.js  
-- MongoDB  
-- REST APIs  
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🧰 Tools & Workflow
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Figma  
-- Vercel / Netlify  
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
 
 ---
+
 
 ## 📊 GitHub Intelligence
 
-> ⚠️ Replace `your-username` with your GitHub username
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-
-</p>
-
----
-
-## 🐍 Contribution Spotlight
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Contribution+Snake+Animation" />
-</p>
-
-✨ This section highlights my GitHub activity and consistency through visual contributions.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1.1" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true&v=1.1" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1.1" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🐍 Contribution Snake
 
-- 🚀 **CodeForge AI** – Resume Analyzer & Developer Toolkit  
-- 🌿 **CleanPulse** – Smart Waste Management System  
-- 📍 **Pincode Explorer** – India Postal Data Explorer  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to:
-- 💼 Internship opportunities  
-- 🤝 Collaboration on projects  
-- 🚀 Hackathons & innovation challenges  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x200?text=Let's+Build+Something+Amazing+Together" />
-</p>
+<div align="center">
+
+**Open to internships, collaborations & freelance projects.**
+**Let's build something remarkable together.**
+
+[![Gmail](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpatelxy12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-patel-3b6a4636a/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%94%20Go%20Build%20Something!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+</div>
