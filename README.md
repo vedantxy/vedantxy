@@ -21,31 +21,17 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" align="center">
-      
-<h2>👋 Hello, I'm Vedant!</h2>
+🧑‍💻 About Me
+👋 I'm a Full Stack Developer from Ahmedabad, Gujarat 🇮🇳, currently pursuing B.E. in Computer Science at Swaminarayan University (2025–29).
 
-<p>
-I'm a <b>Full Stack Developer & UI/UX Designer</b> from Gujarat, India.<br/>
-I build scalable web apps using the <b>MERN stack</b> and design clean UI in <b>Figma</b>.
-</p>
+I build AI-powered, scalable web applications using the MERN stack + FastAPI, with a strong focus on real-world impact — from fuel fraud detection to multimodal RAG assistants.
 
-<p>
-🌱 Learning: Advanced React<br/>
-🤝 Open to: Collaborations<br/>
-📫 Email: <a href="mailto:vedantpatelxy12@gmail.com">vedantpatelxy12@gmail.com</a>
-</p>
 
-    </td>
-
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvn1dO/giphy.gif" width="85%" />
-    </td>
-  </tr>
-</table>
-
+🔭  Currently building — FuelGuard · Knowledge Twin · Warm Bazaar
+🌱  Currently learning — DSA · React Native · LLM Fine-tuning · n8n AI Agents
+💬  Ask me about — React · Node.js · MongoDB · FastAPI · REST APIs
+📫  Reach me at — hanumanrajpurohit008@gmail.com
+🌐  Portfolio — hanumanrajpurohit.netlify.app
 
 ## 🌐 Connect With Me
 
