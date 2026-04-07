@@ -36,11 +36,11 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
 <br/>
 💬 **Ask me about** — HTML/CSS · JavaScript · React · Node.js · MongoDB · Figma
 <br/>
-📫 **Reach me at** — vedantpatelxy12@gmail.com](mailto:vedantpatelxy12@gmail.com)
+📫 **Reach me at** — vedantpatelxy12@gmail.com
 <br/>
 🌐 **Profiles** — https://developer-portfolio-lilac-six.vercel.app/
 <br/>
-
+<hr/>
 ## 🌐 Connect With Me
 
 <div align="center">
