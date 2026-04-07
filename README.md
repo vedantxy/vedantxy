@@ -21,18 +21,20 @@
 
 ---
 
-🧑‍💻 About Me
-👋 I'm a Full Stack Developer from Ahmedabad, Gujarat 🇮🇳, currently pursuing B.E. in Computer Science at Swaminarayan University (2025–29).
+## 👨‍💻 About Me
+***
 
-I build AI-powered, scalable web applications using the MERN stack + FastAPI, with a strong focus on real-world impact — from fuel fraud detection to multimodal RAG assistants.
+👋 I'm a **Full Stack Developer & UI/UX Designer** from **Kalol, Gujarat IN**. 
 
+I build scalable web applications using the **MERN stack**, with a strong focus on pixel-perfect, user-centric interfaces prototyped in **Figma**.
 
-🔭  Currently building — FuelGuard · Knowledge Twin · Warm Bazaar
-🌱  Currently learning — DSA · React Native · LLM Fine-tuning · n8n AI Agents
-💬  Ask me about — React · Node.js · MongoDB · FastAPI · REST APIs
-📫  Reach me at — hanumanrajpurohit008@gmail.com
-🌐  Portfolio — hanumanrajpurohit.netlify.app
+<br>
 
+🔭 **Currently building** — [Your Project 1] · [Your Project 2]
+🌱 **Currently learning** — Advanced React Patterns · Modern UI Trends
+💬 **Ask me about** — HTML/CSS · JavaScript · React · Node.js · MongoDB · Figma
+📫 **Reach me at** — vedantpatelxy12@gmail.com](mailto:vedantpatelxy12@gmail.com)
+🌐 **Profiles** — https://developer-portfolio-lilac-six.vercel.app/
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -113,8 +115,6 @@ I build AI-powered, scalable web applications using the MERN stack + FastAPI, wi
 **Open to internships, collaborations & freelance projects.**
 **Let's build something remarkable together.**
 
-[![Gmail](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpatelxy12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-patel-3b6a4636a/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%94%20Go%20Build%20Something!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
