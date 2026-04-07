@@ -5,6 +5,15 @@
 <br/>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+<img src="https://img.shields.io/badge/FOLLOWERS-13-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
 </div>
 
@@ -12,19 +21,26 @@
 
 ---
 
-## ⚡ Who Am I?
-
-> *"Style + Logic = Magic."*
-
-I'm **Vedant Patel** — a 1st-year IT student at **Swaminarayan University** (via [CodingGita](https://codinggita.com)), obsessed with turning ideas into real, working products. I don't just write code — I craft experiences.
-
-| 🎯 Focus | 🌱 Currently Exploring | 🏆 End Goal |
-|---|---|---|
-| Full-Stack Web Dev | Advanced React, Penetration Testing | Ship high-impact products & contribute to OSS |
-| Cyber Security | Scalable DB Architecture | Land a role at a top tech company |
-| Game Development | System Design Patterns | Build something used by millions |
-
+<table>
+  <tr>
+    <td width="60%">
+      <h2>👋 Hello, I'm Vedant!</h2>
+      <p>I'm a <b>Full Stack Developer & UI/UX Designer</b> from Gujarat, IN. I specialize in bridging the gap between engineering and design—building scalable applications with the <b>MERN stack</b> and prototyping pixel-perfect interfaces in <b>Figma</b>.</p>
+      <p>
+        🌱 Currently mastering Advanced React Patterns<br>
+        🤝 Open for collaborations on Full-Stack projects<br>
+        📫 Reach me: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvn1dO/giphy.gif" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 ---
+app
+
+🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
