@@ -48,7 +48,7 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
   <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing"/></a>
+  <a href="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
 </div>
 
 ## 🛠️ Tech Arsenal
