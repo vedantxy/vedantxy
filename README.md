@@ -31,10 +31,16 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
 <br>
 
 🔭 **Currently building** — [Your Project 1] · [Your Project 2]
+<br/>
 🌱 **Currently learning** — Advanced React Patterns · Modern UI Trends
+<br/>
 💬 **Ask me about** — HTML/CSS · JavaScript · React · Node.js · MongoDB · Figma
+<br/>
 📫 **Reach me at** — vedantpatelxy12@gmail.com](mailto:vedantpatelxy12@gmail.com)
+<br/>
 🌐 **Profiles** — https://developer-portfolio-lilac-six.vercel.app/
+<br/>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -42,7 +48,7 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
   <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+  <a href="#"><img src="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing"/></a>
 </div>
 
 ## 🛠️ Tech Arsenal
