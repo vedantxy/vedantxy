@@ -1,123 +1,135 @@
-<!-- 🔥 HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vedant%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ⚡ STATS BAR -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantxy&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed" />
-  <img src="https://img.shields.io/github/followers/vedantxy?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
-</div>
-
-<br/>
-
-<!-- 💻 TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+🚀;UI%2FUX+Designer+🎨;Cybersecurity+Enthusiast+🔐;Building+Real+World+Projects+💡" />
-</div>
-
----
-
-<!-- 👋 ABOUT (CENTERED PREMIUM) -->
 <div align="center">
 
-### 👋 Hello, I'm Vedant
-
-I'm a **Full Stack Developer** who loves building modern, scalable web applications with clean UI/UX.
-
-I focus on **React, MERN stack, and system design**, turning ideas into real-world products.
-
-🚀 **Goal:** Build impactful products & grow into a top-tier developer
-
-</div>
-
----
-
-<!-- 🌐 CONNECT -->
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="mailto:vedantpatelxy12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/VedantPate1601">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@VedantPatel-y7k">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- 🛠️ SKILLS -->
-<div align="center">
-
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-<!-- 📊 STATS -->
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- 🐍 SNAKE -->
-<div align="center">
-
-### 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
-<!-- 🚀 CTA -->
-<div align="center">
-
-### 🚀 Open to Opportunities
-
-Internships • Freelance • Collaborations  
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+<img src="https://img.shields.io/badge/FOLLOWERS-13-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
 
 </div>
 
 <br/>
 
-<!-- 🔻 FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
+</div>
+
+<br/>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="60%" align="center">
+      
+<h2>👋 Hello, I'm Vedant!</h2>
+
+<p>
+I'm a <b>Full Stack Developer & UI/UX Designer</b> from Gujarat, India.<br/>
+I build scalable web apps using the <b>MERN stack</b> and design clean UI in <b>Figma</b>.
+</p>
+
+<p>
+🌱 Learning: Advanced React<br/>
+🤝 Open to: Collaborations<br/>
+📫 Email: <a href="mailto:vedantpatelxy12@gmail.com">vedantpatelxy12@gmail.com</a>
+</p>
+
+    </td>
+
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvn1dO/giphy.gif" width="85%" />
+    </td>
+  </tr>
+</table>
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+
+---
+
+
+## 📊 GitHub Intelligence
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api?username=vedantxy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1.1" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantxy&theme=tokyonight&hide_border=true&v=1.1" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-alpha-three.vercel.app/api/top-langs/?username=vedantxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1.1" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vedantxy/vedantxy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Open to internships, collaborations & freelance projects.**
+**Let's build something remarkable together.**
+
+[![Gmail](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpatelxy12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-patel-3b6a4636a/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%80%94%20Go%20Build%20Something!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+
 </div>
