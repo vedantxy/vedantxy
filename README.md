@@ -29,7 +29,7 @@
       <p>
         🌱 Currently mastering Advanced React Patterns<br>
         🤝 Open for collaborations on Full-Stack projects<br>
-        📫 Reach me: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+        📫 Reach me: <a href="vedantpatelxy12@gmail.com">vedantpatelxy12@gmail.com</a>
       </p>
     </td>
     <td width="40%" align="center">
@@ -37,10 +37,9 @@
     </td>
   </tr>
 </table>
----
-app
 
-🌐 Connect With Me
+
+##🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
