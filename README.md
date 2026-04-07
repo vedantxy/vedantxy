@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
@@ -22,13 +20,11 @@
 ---
 
 ## 👨‍💻 About Me
-***
+
 
 👋 I'm a **Full Stack Developer & UI/UX Designer** from **Kalol, Gujarat IN**. 
 
-I build scalable web applications using the **MERN stack**, with a strong focus on pixel-perfect, user-centric interfaces prototyped in **Figma**.
-
-<br>
+I build scalable web applications using the **MERN stack**, with a strong focus on pixel-perfect, user-centric interfaces prototyped in **Figma*
 
 🔭 **Currently building** — [Your Project 1] · [Your Project 2]
 <br/>
@@ -51,6 +47,8 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
   <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
 </div>
+
+---
 
 ## 🛠️ Tech Arsenal
 
