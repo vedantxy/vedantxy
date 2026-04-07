@@ -21,12 +21,17 @@
 
 ## 👨‍💻 About Me
 
+<table
+<tr>
+<td width="55%">
+
+## 👋 Hi, I'm Vedant!
 
 👋 I'm a **Full Stack Developer & UI/UX Designer** from **Kalol, Gujarat IN**. 
 
 I build scalable web applications using the **MERN stack**, with a strong focus on pixel-perfect, user-centric interfaces prototyped in **Figma*
 
-🔭 **Currently building** — [Your Project 1] · [Your Project 2]
+🔭 **Currently Building** — Portfolio Website · E-commerce App
 <br/>
 🌱 **Currently learning** — Advanced React Patterns · Modern UI Trends
 <br/>
@@ -35,8 +40,20 @@ I build scalable web applications using the **MERN stack**, with a strong focus 
 📫 **Reach me at** — vedantpatelxy12@gmail.com
 <br/>
 🌐 **Profiles** — https://developer-portfolio-lilac-six.vercel.app/
-<br/>
-<hr/>
+
+</td>
+
+<td width="45%">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+
+
+
+---
 
 ### 🌐  Connect With Me
 
