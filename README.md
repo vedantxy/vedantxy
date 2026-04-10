@@ -19,51 +19,53 @@
 </div>
 
 ---
+
 ## 👨‍💻 About Me
 
-<table
-<tr>
-<td width="55%">
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
-## 👋 Hi, I'm Vedant!
+👋 **Hi, I'm Vedant!** — A passionate **Full Stack Developer & Student** from India 🇮🇳 who loves building modern web applications and solving real-world problems through code.
 
-👋 I'm a **Full Stack Developer & UI/UX Designer** from **Kalol, Gujarat IN**. 
+🎓 Student at **Shree Swaminarayan Gurukul College of Education**  
+💻 Learning **Full Stack Development (MERN)**  
+🔧 Working with **React, Node.js, Express.js, MongoDB**  
+⚡ Strong in **C & C++**  
+🚀 Building real-world projects  
+🤝 Open to **internships & collaborations**  
+🔥 Goal: Become a **skilled Full Stack Developer**  
+☕ Fun fact: I run on **chai & coding passion**
 
-I build scalable web applications using the **MERN stack**, with a strong focus on pixel-perfect, user-centric interfaces prototyped in **Figma*
-
-🔭 **Currently Building** — Portfolio Website · E-commerce App
-<br/>
-🌱 **Currently learning** — Advanced React Patterns · Modern UI Trends
-<br/>
-💬 **Ask me about** — HTML/CSS · JavaScript · React · Node.js · MongoDB · Figma
-<br/>
-📫 **Reach me at** — vedantpatelxy12@gmail.com
-<br/>
-🌐 **Profiles** — https://developer-portfolio-lilac-six.vercel.app/
-
-</td>
-
-<td width="45%">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-</td>
-
-</tr>
-</table>
-
-
+<br clear="right"/>
 
 
 ---
 
-### 🌐  Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:vedantpatelxy12@gmail.com"><img src="https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/VedantPate1601"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@VedantPatel-y7k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume_CV-000000?style=for-the-badge&logo=Read.cv&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-VEDANT%20PATEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/VedantPate1601">
+  <img src="https://img.shields.io/badge/X%20(TWITTER)-@VedantPate1601-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@VedantPatel-y7k">
+  <img src="https://img.shields.io/badge/YOUTUBE-Vedant%20Patel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:vedantpatelxy12@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LEETCODE-VedantPatel0210-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
+
 
 ---
 
