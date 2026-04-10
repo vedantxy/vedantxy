@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+Express+%7C+MongoDB+%F0%9F%94%A5;C%2B%2B+Programmer+%F0%9F%A7%A0;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Learner+%F0%9F%8C%8D" />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
+<img align="right" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
 👋 **Hi, I'm Vedant!** — A passionate **Full Stack Developer & Student** from India 🇮🇳 who loves building modern web applications and solving real-world problems through code.
 
