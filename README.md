@@ -2,20 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedant%20Patel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
-<img src="https://img.shields.io/badge/FOLLOWERS-13-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%8D;Game+Developer+in+Progress+%F0%9F%8E%AE" />
 </div>
 
 <br/>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+<img src="https://img.shields.io/badge/FOLLOWERS-13-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+
+</div>
 
 ---
 ## 👨‍💻 About Me
