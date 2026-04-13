@@ -43,27 +43,15 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vedant-patel-3b6a4636a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-VEDANT%20PATEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/VedantPate1601">
-  <img src="https://img.shields.io/badge/X%20(TWITTER)-@VedantPate1601-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@VedantPatel-y7k">
-  <img src="https://img.shields.io/badge/YOUTUBE-Vedant%20Patel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
 <a href="mailto:vedantpatelxy12@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-EMAIL-161b22?style=for-the-badge&logo=maildotru&logoColor=5B8DD9"/>
 </a>
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LEETCODE-VedantPatel0210-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://developer-portfolio-theta-taupe.vercel.app/">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-161b22?style=for-the-badge&logo=circle&logoColor=7C5CBF"/>
 </a>
-
+<a href="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-RESUME-161b22?style=for-the-badge&logo=googledrive&logoColor=4A8EF0"/>
+</a>
 </div>
 
 
