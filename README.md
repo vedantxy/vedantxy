@@ -46,7 +46,7 @@
 <a href="mailto:vedantpatelxy12@gmail.com">
   <img src="https://img.shields.io/badge/-EMAIL-161b22?style=for-the-badge&logo=maildotru&logoColor=5B8DD9"/>
 </a>
-<a href="https://developer-portfolio-theta-taupe.vercel.app/">
+<a href="https://vedant-patel-developerportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/-PORTFOLIO-161b22?style=for-the-badge&logo=circle&logoColor=7C5CBF"/>
 </a>
 <a href="https://drive.google.com/file/d/1YFi7wZHKKj8DRVWcL4FBWq8gsH5BHpFS/view?usp=sharing">
