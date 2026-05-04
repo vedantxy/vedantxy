@@ -14,7 +14,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-268-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
-<img src="https://img.shields.io/badge/FOLLOWERS-13-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
+<img src="https://img.shields.io/badge/FOLLOWERS-8-2f2f2f?style=for-the-badge&labelColor=2f2f2f&color=7c3aed" />
 
 </div>
 
