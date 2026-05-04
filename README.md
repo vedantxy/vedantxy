@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
+<img align="right" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
 👋 **Hi, I'm Vedant!** — A passionate **Full Stack Developer & Student** from India 🇮🇳 who loves building modern web applications and solving real-world problems through code.
 
